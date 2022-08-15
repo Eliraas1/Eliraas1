@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **React-native and Node.js**
 
-- 👨‍💻 Linkedin [https://www.linkedin.com/in/eliran-ashtamker/](https://www.linkedin.com/in/eliran-ashtamker/)
-
 - 📄 Resume [https://file.io/ylkRVFKqMZBR](https://file.io/ylkRVFKqMZBR)
 
 - 📫 Email **Ashtamker087@gmail.com**
