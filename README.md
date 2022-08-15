@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eliran Ashtamker</h1>
 <h3 align="center">A passionate mobile\web developer from Israel</h3>
 
-- 🔭 I’m currently working on **דecond hand sales social-network start-up**
+- 🔭 I’m currently working on **second hand sales social-network start-up**
 
 - 🌱 I’m currently learning **React-native and Node.js**
 
