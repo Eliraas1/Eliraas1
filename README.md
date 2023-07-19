@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React-native and Node.js**
 
-- 📄 Resume [https://file.io/ylkRVFKqMZBR](https://file.io/ylkRVFKqMZBR)
+- 📄 Resume [https://file.io/huGzmjLU5MY6](https://file.io/huGzmjLU5MY6)
 
 - 📫 Email **Ashtamker087@gmail.com**
 
