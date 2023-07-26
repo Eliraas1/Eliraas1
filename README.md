@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as a React-Native developer<br>🌱 learning the newest technologies as Next.js and Nest.js<br>📄 Resume https://file.io/huGzmjLU5MY6<br>📫 Email Ashtamker087@gmail.com
+🔭 I’m currently working as a React-Native developer<br>🌱 explore the newest technologies like Next.js and Nest.js<br>📄 Resume https://file.io/huGzmjLU5MY6<br>📫 Email Ashtamker087@gmail.com
 
 
 ## 🌐 Socials:
